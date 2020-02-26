@@ -169,7 +169,7 @@ int main()
 		else if (user_choice == 4) /*if user choose 4, the program will stop */
 		{
 			cout << endl;
-			cout << "HAVE A GREAT DAY!";
+			cout << "HAVE A GREAT DAY!" << endl;
 			break; /*get out of the while loop*/
 		}
 		else /*if user choose an invalid choice, the program will ask the user to choose a valid one again*/

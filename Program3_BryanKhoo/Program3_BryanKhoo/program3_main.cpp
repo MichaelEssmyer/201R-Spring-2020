@@ -36,7 +36,9 @@ int main() {
 	}
 
 	do {
+		//calls menu function
 		Menu();
+		//output message to prompt user input
 		cout << "Please choose an option" << endl;
 		cin >> userInput;
 		cout << endl;
@@ -45,7 +47,8 @@ int main() {
 		case 1: display_Info(iD, first, last, city, state, gpa, SIZE); break;
 		case 2: display(iD, first, last, city, state, gpa, SIZE); break;
 		case 3: display(iD, first, last, city, state, gpa, SIZE); count_city(city, state, SIZE); break;
-		case 4: break;
+		case 4: cout << "Have a great day!" << endl; break;
+		//if user input is not within 1 to 4, output error message
 		default: cout << "Please input valid choice" << endl;
 		}
 	} while (userInput != 4);

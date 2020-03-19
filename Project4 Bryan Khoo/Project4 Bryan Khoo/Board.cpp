@@ -4,6 +4,11 @@
 
 //board class constructor 
 Board::Board() {
+	//calls SetBoard method that sets all the tiles to default value 
+	SetBoard();
+}
+
+void Board::SetBoard() {
 	//initializes the tile array to have default value as 'N'
 	for (int i = 0; i < 3; i++) {
 		for (int j = 0; j < 3; j++) {
@@ -11,6 +16,7 @@ Board::Board() {
 		}
 	}
 }
+
 //board class method that sets a symbol in the array tile based on user input
 void Board::SetTile(char player) {
 	tileArray[playerPosition.posX][playerPosition.posY] = player;
@@ -160,6 +166,8 @@ void Board::RunGame() {
 	delete players[1];
 	players[0] = nullptr;
 	players[1] = nullptr;
+	//reset the board to have default values, removing all the symbols in the board
+	SetBoard();
 }
 //board class method that output's final result to file
 void Board::SaveGame(std::ofstream& fout, Player* player[]) {

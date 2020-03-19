@@ -9,6 +9,7 @@ class Board {
 public: 
 	//all class method declarations 
 	Board();
+	void SetBoard();
 	void PrintBoard();
 	bool CheckSpace(Tile playerPosition);
 	void SetTile(char player);

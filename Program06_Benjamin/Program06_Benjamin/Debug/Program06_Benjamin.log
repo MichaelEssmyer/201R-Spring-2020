@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\phuc3\source\repos\Program06_Benjamin\Program06_Benjamin\Main.cpp(43): warning C4715: 'Rungame': not all control paths return a value
+  Program06_Benjamin.vcxproj -> C:\Users\phuc3\source\repos\Program06_Benjamin\Debug\Program06_Benjamin.exe

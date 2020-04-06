@@ -1,0 +1,3 @@
+﻿  BoardClassIMP.cpp
+C:\Users\crisr\Documents\School Work\James-Cristofer\Program 4 Cristofer James\Program 4 Cristofer James\BoardClassIMP.cpp(17,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Program 4 Cristofer James.vcxproj -> C:\Users\crisr\Documents\School Work\James-Cristofer\Program 4 Cristofer James\Debug\Program 4 Cristofer James.exe

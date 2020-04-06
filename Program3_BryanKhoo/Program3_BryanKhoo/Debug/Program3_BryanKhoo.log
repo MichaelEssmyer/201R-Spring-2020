@@ -1,0 +1,7 @@
+﻿  program3_main.cpp
+C:\Users\degag\Desktop\Programming\program1\Program3_BryanKhoo\Program3_BryanKhoo\program3_main.cpp(89,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\degag\Desktop\Programming\program1\Program3_BryanKhoo\Program3_BryanKhoo\program3_main.cpp(90,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\degag\Desktop\Programming\program1\Program3_BryanKhoo\Program3_BryanKhoo\program3_main.cpp(110,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\degag\Desktop\Programming\program1\Program3_BryanKhoo\Program3_BryanKhoo\program3_main.cpp(142,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\degag\Desktop\Programming\program1\Program3_BryanKhoo\Program3_BryanKhoo\program3_main.cpp(164,21): warning C4018: '<': signed/unsigned mismatch
+  Program3_BryanKhoo.vcxproj -> C:\Users\degag\Desktop\Programming\program1\Program3_BryanKhoo\Debug\Program3_BryanKhoo.exe

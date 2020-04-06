@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\CS201programshomework\Program2\Program2\Source.cpp(128,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Program2.vcxproj -> C:\CS201programshomework\Program2\x64\Debug\Program2.exe

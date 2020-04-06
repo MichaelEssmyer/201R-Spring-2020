@@ -1,0 +1,25 @@
+Anna L olivia W
+_X_||_X_||___
+_X_||_X_||_O_
+ O || O || O
+
+Conner L JT W
+___||___||_O_
+_X_||_X_||_O_
+ X ||   || O
+
+Conner W JT L
+_X_||_X_||_X_
+_O_||_O_||_X_
+ O || X || O
+
+Conner W JT L
+_X_||___||___
+_O_||_X_||_O_
+   ||   || X
+
+Anna T Grace T
+_X_||_O_||_X_
+_X_||_X_||_O_
+ O || X || O
+

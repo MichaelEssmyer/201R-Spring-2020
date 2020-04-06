@@ -1,0 +1,3 @@
+﻿  MainProgram.cpp
+C:\Users\Admin\Benjamin_program03\Program03_Benjamin\Program03_Benjamin\MainProgram.cpp(66,52): warning C4101: 'num_students': unreferenced local variable
+  Program03_Benjamin.vcxproj -> C:\Users\Admin\Benjamin_program03\Program03_Benjamin\Debug\Program03_Benjamin.exe

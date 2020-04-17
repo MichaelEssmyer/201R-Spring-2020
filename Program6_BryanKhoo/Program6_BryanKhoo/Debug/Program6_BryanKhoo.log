@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\degag\source\repos\Program6_BryanKhoo\Program6_BryanKhoo\main.cpp(7,28): warning C4101: 'finalToken': unreferenced local variable
+  Program6_BryanKhoo.vcxproj -> C:\Users\degag\source\repos\Program6_BryanKhoo\Debug\Program6_BryanKhoo.exe

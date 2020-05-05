@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\terra\source\repos\Program 5\main.cpp(19,18): warning C4101: 'hourlyPtr': unreferenced local variable
+C:\Users\terra\source\repos\Program 5\main.cpp(20,19): warning C4101: 'monthlyPtr': unreferenced local variable
+  Program 5.vcxproj -> C:\Users\terra\source\repos\Program 5\x64\Debug\Program 5.exe
